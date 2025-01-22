@@ -4,7 +4,7 @@ Olá! Eu sou o Samuel 🖐️
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Unisinos (3º semestre).
 
-🚀 Buscando meu primeiro emprego na área de TI para aplicar e expandir meus conhecimentos em desenvolvimento de software, tecnologias web e metodologias ágeis
+🚀 Buscando meu primeiro emprego na área de TI para aplicar e expandir meus conhecimentos em desenvolvimento de software e tecnologias web.
 
 🌍 Residente de Porto Alegre, Rio Grande do Sul.
 
