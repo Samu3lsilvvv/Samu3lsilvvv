@@ -1,10 +1,15 @@
 Olá! Eu sou o Samuel 🖐️
 
 💻 Desenvolvedor em Formação
+
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Unisinos (3º semestre).
+
 🚀 Buscando meu primeiro emprego na área de TI para aplicar e expandir meus conhecimentos em desenvolvimento de software, tecnologias web e metodologias ágeis
+
 🌍 Residente de Porto Alegre, Rio Grande do Sul.
+
 ✉️ Posso ser contatado por samuel20152001@gmail.com
+
 🧠 Possuo dominio em HTML, CSS e Javascript, React e Python.
 
 Tecnologias
