@@ -2,7 +2,7 @@ Olá! Eu sou o Samuel 🖐️
 
 💻 Atuo atualmente com Suporte, com interesse em migração para Dados e I.A.
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na Unisinos (4º semestre).
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na Unisinos (5º semestre).
 
 🚀 Desenvolvendo minhas habilidades na área de dados e i.a para alcançar meus objetivos de carreira.
 
